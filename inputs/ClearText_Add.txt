@@ -1,0 +1,9 @@
+ What happens when the text start with blank?
+aaaaaaaaaa  aaaaaaaaaaaaaa
+CaPITALIZATION is IGNORED
+l-----test for hyphen
+Hello World
+Take a trip down Candy Cane Lane with me
+It's the cutest thing I swear you'll ever see
+It's the best, so get dressed, I'll impress
+You with the colors of the rainbow
